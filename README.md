@@ -3,10 +3,10 @@
 #내용이 들어갔는지 확인용입니다.
 
 <details>
-<summary>접기/펼치기 버튼</summary>
+<summary>초기 홈페이지 러프 접기/펼치기 버튼</summary>
   <div markdown="1">
 
-
+  ![new  Untitled_page-0001](https://user-images.githubusercontent.com/115681538/235059811-d7d60616-760b-4a87-b0e1-4f7f2529e755.jpg) 
   ![게시판만들기_page-0001](https://user-images.githubusercontent.com/115681538/235059284-7ab71d26-e07b-4d71-959f-6cb7c0066c59.jpg)
   ![게시판만들기_page-0002](https://user-images.githubusercontent.com/115681538/235059290-68ff56f5-60d0-411d-b743-12fd164c1523.jpg)
   ![게시판만들기_page-0003](https://user-images.githubusercontent.com/115681538/235059292-9c7f9653-f47c-42d3-80f6-591c56cf9deb.jpg)
